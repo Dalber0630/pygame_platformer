@@ -7,4 +7,5 @@ LEFT CLICK - Shoot
 E - Access Inventory
 Q - Drop Item
 # Screenshots
-
+![TITLE_SCREEN](https://raw.githubusercontent.com/rugrat69/pygame_platformer/main/7.%20Platformer/Screenshots/friction1.PNG)
+![GAMEPLAY](https://raw.githubusercontent.com/rugrat69/pygame_platformer/main/7.%20Platformer/Screenshots/friction2.PNG)
